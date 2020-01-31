@@ -11,14 +11,14 @@ if keyboard_check_pressed(vk_space){
 			var Isin = false;
 			var i = 0;
 			for (i = 0; i < array_length_1d(topic_inventory) ; i += 1) {
-				if(topic_inventory[i] == other.ShortText.TopicText) {
+				if(topic_inventory[i].TopicText == other.TopicItem.TopicText) {
 					Isin = true;
 				}
 			}
 			if(!Isin) {
-				topic_inventory[array_length_1d(topic_inventory)] = other.ShortText
+				topic_inventory[array_length_1d(topic_inventory)] = other.TopicItem
 			} else {
-				instance_destroy(other.ShortText)	
+				instance_destroy(other.TopicItem)	
 			}
 		}
 		obj_GameControler.Talking = false
