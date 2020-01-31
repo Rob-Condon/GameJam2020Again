@@ -16,5 +16,8 @@ if(obj_GameControler.Talking == false) {
 	}
 	obj_inventory.topic_inventory[obj_inventory.filled_Topic_Spot] = ShortMyStory[CurrentStory]
 	obj_inventory.filled_Topic_Spot +=1 
+	if (CurrentStory < array_length_1d(ShortMyStory) -1){
+		CurrentStory += 1
+	}	
 	obj_GameControler.Talking = true
 }

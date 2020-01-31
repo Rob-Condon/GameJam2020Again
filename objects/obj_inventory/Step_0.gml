@@ -16,10 +16,9 @@ vy = camera_get_view_y(view_camera[0]);
 			var clueInstance= instance_create_layer(vx+100, vy +100  + (i * 65) ,"Instances", obj_Clue_inv);
 			clueInstance.sprite_index =clue[1]
 			show_debug_message(string(clue[0]))
-			var topicInstance = instance_create_layer(vx+200 , vy +100+ (i * 65),"Instances", obj_Topic_inv);
-			topicInstance.sprite_index = topic[1]
-			show_debug_message(string(topic[0] ))
-
+			var topicInstance = instance_create_layer(vx+600 , vy +100+ (i * 65),"Instances", obj_Topic_inv);
+			topicInstance.topic=topic
+			topicInstance.sprite_index = spr_items
 		}
 			
 		}
