@@ -7,8 +7,6 @@ HalfBoxWidth = sprite_get_width(spr_TextBox)/2
 BoxWidth =  sprite_get_width(spr_TextBox)*1.4
 BoxHeight = sprite_get_height(spr_TextBox)/3
 
-
-
 spriteStartX = self.x+30;
 spriteStartY = self.y+33
 CurrentX = spriteStartX
