@@ -1,4 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-Topic = noone;
-TopicSprite = noone;
+//listSize = ds_list_size(obj_inventory.clue_inventory)
