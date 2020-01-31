@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "17b1d54a-bf96-41d0-bbb6-47312aca284e",
+            "Value": {
+                "id": "7cd0ade7-8832-4eee-8f2d-4aa7df96ef03",
+                "resourcePath": "sprites\\Kitchen\\Kitchen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b48065c-ce10-4f26-ac1d-02d9d3f85e72",
             "Value": {
                 "id": "481896d9-6997-4e80-aaf2-bdd620d3bc89",
@@ -284,6 +292,14 @@
                 "id": "18a784ce-5182-4824-9208-7627bb97cada",
                 "resourcePath": "objects\\obj_GameControler\\obj_GameControler.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "edf130b5-d38b-4a98-9820-a926649dec6f",
+            "Value": {
+                "id": "624da2cd-d275-45d2-9468-b5c59eee4839",
+                "resourcePath": "sprites\\Dining_Room\\Dining_Room.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
