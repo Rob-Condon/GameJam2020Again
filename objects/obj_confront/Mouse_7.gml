@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-//listSize = ds_list_size(obj_inventory.clue_inventory)
+if(mouse_check_button_pressed(mb_left)){
+		show_debug_message("pls")	
+	}
