@@ -4,7 +4,6 @@ if(obj_GameControler.Talking == false) {
 		TopicText = other.ShortMyStory[other.CurrentStory];
 		Character = other;
 		Clue = other.Clues[other.CurrentStory]
-	
 		other.TopicObject = self;
 	}
 
@@ -14,7 +13,6 @@ if(obj_GameControler.Talking == false) {
 		TextColor = other.color;
 		TopicItem = other.TopicObject;
 	}
-
 	
 	obj_GameControler.Talking = true
 }

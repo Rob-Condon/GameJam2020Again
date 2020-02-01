@@ -21,7 +21,7 @@ IconBoxWidth = BoxWidth-140+x
 InstanceThatMadeIt = noone;
 InstanceName = "TEST";
 TextColor = c_black;
-ShortText = "";
+TopicItem = noone;
 DestoryMe = false;
 alarmHit = false;
 /*instance_create_layer(x+35, y+30, "Icons", IconArray[0]);

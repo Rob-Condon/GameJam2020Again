@@ -3,9 +3,12 @@
 
 // update per room
 if (room == room0){
-	clue_inventory = [[-1,-1],[-1,-1],[-1,-1],[-1,-1]]
-	topic_inventory =  [-1,-1,-1,-1]
+
+	clue_inventory = []
+	topic_inventory =  []
+
 }
+
 
 filled_Clue_Spot = 0
 filled_Topic_Spot = 0

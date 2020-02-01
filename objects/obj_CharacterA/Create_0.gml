@@ -4,5 +4,5 @@ ShortMyStory = ["Diden't do it", "Fixing it"]
 color = c_purple;
 Name = "Purple Dude"
 CurrentStory = 0;
-Clues = [noone, noone];
+Clues = [spr_Glue, spr_Pieces];
 TopicObject = noone;
