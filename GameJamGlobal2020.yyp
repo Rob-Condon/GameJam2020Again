@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "057ab071-c3de-4a93-85b8-9e318ff31303",
+            "Value": {
+                "id": "a53ae5ff-d7c9-427d-8655-aad61ae77375",
+                "resourcePath": "sprites\\Dining_RoomBig\\Dining_RoomBig.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08082fb0-2e24-4af9-8032-95495a32bdd1",
             "Value": {
                 "id": "bdc719ea-53cd-4731-a4f9-27c522752e88",
