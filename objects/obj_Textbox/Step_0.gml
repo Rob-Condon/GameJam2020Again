@@ -15,6 +15,9 @@ if keyboard_check_pressed(vk_space){
 			room_goto(RobRobert);	
 		}
 		with(obj_inventory) {
+			if(other.TopicItem.TopicText == "wrong answer") {
+				obj_Player.Strikes += 1;	
+			}
 			var ChangedTopic = false;
 			if(other.TopicItem.TopicText != "wrong answer" && other.TopicItem.TopicText != "EOP") {
 				var Isin = false;
@@ -49,6 +52,7 @@ if keyboard_check_pressed(vk_space){
 				other.TopicItem.OtherCharacter.image_speed = 0;
 				other.TopicItem.Character.image_index = 0;
 				other.TopicItem.OtherCharacter.image_index = 0;
+				ChangedTopic = true
 				}
 				//So make a point in witch people can TP to
 				instance_destroy(other.TopicItem)	

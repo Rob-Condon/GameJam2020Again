@@ -26,3 +26,9 @@ if(Movement != 0) {
 if(x+ Movement < room_width && x+ Movement > 0 && !global.Tab) {
 	x += (Movement*7);
 }
+
+
+if(Strikes >= 3) {
+	show_message("You have lost");
+	game_end();
+}

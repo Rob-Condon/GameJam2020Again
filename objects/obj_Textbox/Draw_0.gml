@@ -47,7 +47,3 @@ if (i < string_length(textPart)) {
 //Draw Name. I.E "Hermy"
 draw_set_halign(fa_middle);
 draw_text_transformed_color(self.x+ HalfBoxWidth , self.y+(BoxHeight*2.03), InstanceName, 0.95,0.95,0, c_red, c_purple, c_purple, c_red, 1)
-
-if(global.Tab) { 
-	shader_set(shd_BlackWhite)
-}

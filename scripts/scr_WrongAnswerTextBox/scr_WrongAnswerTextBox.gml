@@ -5,6 +5,7 @@ if(obj_GameControler.Talking == false) {
 	with(instance_create_depth(0,0,-200, obj_Topic)) {
 		TopicText = "wrong answer";
 		Character = other.Topic.Character;
+		OtherCharacter = other.Topic.OtherCharacter;
 		Clue = noone
 		other.TopicObject = self;
 	}
