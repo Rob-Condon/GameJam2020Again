@@ -2,7 +2,7 @@
     "id": "01554f92-af81-4f12-b4c5-b4d21f47b9af",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "tm_Kichen",
+    "name": "tm_Kitchen",
     "auto_tile_sets": [
         
     ],
