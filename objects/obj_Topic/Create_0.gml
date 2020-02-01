@@ -3,6 +3,7 @@
 Topic = noone;
 TopicText = ""
 Character = noone;
+OtherCharacter = noone;
 Clue = noone;
 visible = false;
 Solved= false;

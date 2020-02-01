@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if (mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, self) && Inventory && Grabbed){
-	with(instance_create_depth(x,y, -200, obj_Clue)) {
+	with(instance_create_depth(x,y, -200, obj_ClueInv)) {
 		sprite_index = other.sprite_index;
 		visible = false;
 		Inventory = false;
