@@ -23,8 +23,10 @@ if(Movement != 0) {
 }
 
 
-if(x+ Movement < room_width && x+ Movement > 0 && !global.Tab) {
+if(x+ Movement <= room_width-75 && x+ Movement >= 64 && !global.Tab) {
 	x += (Movement*7);
+} else {
+	x += 0
 }
 
 
