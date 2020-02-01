@@ -12,14 +12,25 @@ if keyboard_check_pressed(vk_space){
 			var i = 0;
 			for (i = 0; i < array_length_1d(topic_inventory) ; i += 1) {
 				if(topic_inventory[i].TopicText == other.TopicItem.TopicText) {
+					show_message("why do i think im in here?")
+					show_message("Does this = " + string(topic_inventory[i].TopicText) + " to " + string(other.TopicItem.TopicText));
 					Isin = true;
 				}
 			}
 			if(!Isin) {
+				show_message(topic_inventory);
+				show_message("added this to the array of topics");
+				show_message(other.TopicItem);
 				topic_inventory[array_length_1d(topic_inventory)] = other.TopicItem
 			} else {
 				instance_destroy(other.TopicItem)	
 			}
+			show_message(topic_inventory);
+			iterate = false;
+		}
+		
+		if(other.TopicItem == "Done my Job") {
+			room_goto(RobRobert);	
 		}
 		obj_GameControler.Talking = false
 		instance_destroy();	

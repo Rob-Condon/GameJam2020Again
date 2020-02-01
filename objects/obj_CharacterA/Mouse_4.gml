@@ -16,3 +16,4 @@ if(obj_GameControler.Talking == false) {
 	
 	obj_GameControler.Talking = true
 }
+

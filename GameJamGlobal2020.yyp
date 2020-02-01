@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0a68cc9a-a27b-44ca-816e-3be583989e76",
+            "Value": {
+                "id": "52581f03-c432-4166-bf01-bc0f23accffc",
+                "resourcePath": "shaders\\shd_BlackWhite\\shd_BlackWhite.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "0e8c78a7-b903-42ef-ad66-f5f1eccc2109",
             "Value": {
                 "id": "659a01d3-5dee-4b05-b11b-618c63a07c17",
@@ -84,6 +92,14 @@
                 "id": "7bf34eaa-074a-40f6-a656-558f2ddf5878",
                 "resourcePath": "views\\20f748de-bc55-412c-869d-8db7cba453cf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2213de35-4a6f-4390-9235-48d09d458f73",
+            "Value": {
+                "id": "c0d21415-4fb8-4da2-981f-a779d098f7a5",
+                "resourcePath": "scripts\\scr_TriggerTextBox\\scr_TriggerTextBox.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -384,7 +400,7 @@
         }
     ],
     "script_order": [
-        
+        "2213de35-4a6f-4390-9235-48d09d458f73"
     ],
     "tutorial": ""
 }
