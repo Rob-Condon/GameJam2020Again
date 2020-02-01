@@ -2,10 +2,8 @@ Topic = argument0
 Topic.Character.CurrentStory += 1;
 Topic.OtherCharacter.CurrentStory += 1;
 TopicObject = noone
-show_message("WorngAnswer")
 if(obj_GameControler.Talking == false) {
 	with(instance_create_depth(0,0,-200, obj_Topic)) {
-		show_message(other.Topic.Character.ShortMyStory[other.Topic.Character.CurrentStory])
 		TopicText = other.Topic.Character.ShortMyStory[other.Topic.Character.CurrentStory];
 		Character = other.Topic.Character;
 		OtherCharacter = other.Topic.OtherCharacter;

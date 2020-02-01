@@ -8,12 +8,10 @@ if (mouse_check_button_released(mb_left) && !Solved && global.Tab){
 	if (inst != noone) {
 		show_debug_message(string(inst.sprite_index))
 		show_debug_message(string(self.Clue))
+		Character.image_speed = 1;
 		if (Clue == inst.sprite_index){
-			show_message(string(Clue) + " == "+ string(inst.sprite_index))
-			show_message("Clicked Right Answer")
 			scr_TriggerTextBox(self);
 		} else {
-			show_message("Wrong answer click");
 			scr_WrongAnswerTextBox(self)
 		}
 	}

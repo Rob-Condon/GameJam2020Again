@@ -5,5 +5,7 @@ if(!Grabbed && Inventory) {
 	draw_self();
 	shader_reset();
 } else {
+	
 	draw_self();	
+	
 }

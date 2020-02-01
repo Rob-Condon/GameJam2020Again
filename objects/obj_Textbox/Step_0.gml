@@ -15,9 +15,10 @@ if keyboard_check_pressed(vk_space){
 			room_goto(RobRobert);	
 		}
 		with(obj_inventory) {
+			var ChangedTopic = false;
 			if(other.TopicItem.TopicText != "wrong answer" && other.TopicItem.TopicText != "EOP") {
 				var Isin = false;
-				var ChangedTopic = false;
+				
 				var i = 0;
 				for (i = 0; i < array_length_1d(topic_inventory) ; i += 1) {
 					if(topic_inventory[i].TopicText == other.TopicItem.TopicText) {
@@ -25,7 +26,6 @@ if keyboard_check_pressed(vk_space){
 					}
 				}
 				if(!Isin) {
-					show_message(other.TopicItem.Clue)
 					topic_inventory[array_length_1d(topic_inventory)] = other.TopicItem
 				} else {
 					if(other.TopicItem != undefined) {
@@ -44,7 +44,7 @@ if keyboard_check_pressed(vk_space){
 				other.TopicItem.OtherCharacter.image_index = 0;
 				}
 			} else {
-				if(other.TopicItem != undefined) {
+				if(!ChangedTopic) {
 				other.TopicItem.Character.image_speed = 0;
 				other.TopicItem.OtherCharacter.image_speed = 0;
 				other.TopicItem.Character.image_index = 0;

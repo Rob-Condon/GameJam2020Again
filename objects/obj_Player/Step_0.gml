@@ -7,12 +7,12 @@ if(Movement != 0) {
 	image_speed = 1;
 	if(Movement >= 0.1) {
 		if(image_xscale == 3) {
-			x += sprite_width
+			
 		}
 		image_xscale = -3	
 	} else {
 		if(image_xscale == -3) {
-			x += sprite_width	
+			
 		}
 		image_xscale = 3	
 	}

@@ -3,7 +3,6 @@
 Topic = argument0
 if(obj_GameControler.Talking == false) {
 	with(instance_create_depth(0,0,-200, obj_Topic)) {
-		show_message(other.Topic.Character.ShortMyStory[other.Topic.Character.CurrentStory])
 		TopicText = "wrong answer";
 		Character = other.Topic.Character;
 		Clue = noone

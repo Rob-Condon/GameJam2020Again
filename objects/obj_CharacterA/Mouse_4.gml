@@ -1,5 +1,5 @@
 
-if(obj_GameControler.Talking == false) {
+if(obj_GameControler.Talking == false && !global.Tab) {
 	image_speed = 1;
 	with(instance_create_depth(0,0,-200, obj_Topic)) {
 		TopicText = other.ShortMyStory[other.CurrentStory];
