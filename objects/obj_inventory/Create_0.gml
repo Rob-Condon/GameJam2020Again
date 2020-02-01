@@ -7,7 +7,7 @@
 	clue_inventory = []
 	topic_inventory =  []
 
-
+GrabbingSomthing = noone
 
 
 filled_Clue_Spot = 0
