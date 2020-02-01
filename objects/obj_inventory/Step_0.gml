@@ -14,8 +14,8 @@ if (global.Tab == true) {
 
 			clue_inventory[i].visible = true;
 			
-			clue_inventory[i].x = vx+100;
-			clue_inventory[i].y = vy +60  + (i * 65);
+			clue_inventory[i].x = vx+100 + (i * 65);
+			clue_inventory[i].y = vy +500;
 			show_debug_message(string(clue_inventory[i].sprite_index))
 
 		}
