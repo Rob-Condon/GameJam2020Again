@@ -12,7 +12,14 @@ if keyboard_check_pressed(vk_space){
 		IncrementStringAmount = string_length(Text);
 	}else{
 		if(TopicItem.TopicText == "Done my Job") {
-			room_goto(RobRobert);	
+			if(room == TutorialRoom) {
+				room_goto(rm_UnTidy);
+			}
+			if(room == rm_UnTidy) {
+				show_message("Do the next level bitch boi");
+				room_goto(RobRobert)
+			}
+				
 		}
 		with(obj_inventory) {
 			if(other.TopicItem.TopicText == "wrong answer") {

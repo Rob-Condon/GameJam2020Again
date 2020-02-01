@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "2cf6bdc9-1ef4-425a-ae04-20e4c42f3567",
+            "Value": {
+                "id": "b5f7c5ff-58c5-4ae7-a5ea-aed26bc9820f",
+                "resourcePath": "objects\\obj_PlayButton\\obj_PlayButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "32f0effe-da62-4162-82c7-8bee22d8660f",
             "Value": {
                 "id": "f39a2376-ffdd-44c9-be12-1fb9daa0e3f1",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "35ae6135-4436-4329-bc87-296f2a852d54",
+            "Value": {
+                "id": "92f44ca9-4379-4abd-b01f-b71914fe9d68",
+                "resourcePath": "views\\35ae6135-4436-4329-bc87-296f2a852d54.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "37b2fa73-feae-44dc-bca4-c699527236a3",
             "Value": {
                 "id": "eb23508a-2fb4-4a05-8186-ac7ccd37f0c5",
@@ -204,6 +220,14 @@
                 "id": "64067cdb-9ec9-4080-b033-0a424bf11007",
                 "resourcePath": "sprites\\spr_ConfrontON\\spr_ConfrontON.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3a208700-2cb2-45a1-b4e4-530188c595de",
+            "Value": {
+                "id": "37d92acc-5634-4b45-8aa3-a69928e20e5e",
+                "resourcePath": "views\\3a208700-2cb2-45a1-b4e4-530188c595de.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -335,6 +359,14 @@
             }
         },
         {
+            "Key": "6e9f078d-72b8-4888-9b46-c43647bc3d52",
+            "Value": {
+                "id": "2597b38b-c5a3-4eca-bcf4-d9b18626fbd6",
+                "resourcePath": "objects\\obj_QuitButton\\obj_QuitButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6ea652f2-4b38-4825-9d98-e60ad8900559",
             "Value": {
                 "id": "d029bb14-233d-4d21-973b-f3e10a9b154b",
@@ -364,6 +396,22 @@
                 "id": "73142374-588d-4f21-afdc-9db1276d136e",
                 "resourcePath": "views\\7179032d-6099-4bcb-aa7a-ee18d6881c28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "766b6029-d1d9-4eff-9e94-8a47ee8416d4",
+            "Value": {
+                "id": "fa8f95d8-e569-4eae-b695-94b0af7ce72e",
+                "resourcePath": "sprites\\spr_Quitbutton\\spr_Quitbutton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77cce662-4a03-4afa-8173-55be1f95d51e",
+            "Value": {
+                "id": "c3bc2eb8-90b5-4d19-a66a-86ca7cdd8822",
+                "resourcePath": "sprites\\spr_Playbutton\\spr_Playbutton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -495,6 +543,14 @@
             }
         },
         {
+            "Key": "b996ec57-45b5-411c-9256-62197bdecfe5",
+            "Value": {
+                "id": "176284aa-999e-4714-a454-d77be66530da",
+                "resourcePath": "sprites\\spr_MainMenuLogo\\spr_MainMenuLogo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bd246c8f-e0b7-4e53-8d12-29279a225076",
             "Value": {
                 "id": "6eaf9140-c97e-4941-9e12-37bdf4ee2083",
@@ -591,6 +647,14 @@
             }
         },
         {
+            "Key": "e79d1c17-8848-4509-bebc-e440cca5c01d",
+            "Value": {
+                "id": "42f446bf-e0f9-4dee-a98c-01365031ec1b",
+                "resourcePath": "objects\\obj_TextboxIntro\\obj_TextboxIntro.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "edf130b5-d38b-4a98-9820-a926649dec6f",
             "Value": {
                 "id": "624da2cd-d275-45d2-9468-b5c59eee4839",
@@ -652,6 +716,14 @@
                 "id": "f09d53ac-cded-4c2b-b95b-b80091304e8b",
                 "resourcePath": "sprites\\sprite2\\sprite2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fbad291a-8075-4aa4-b8bc-9aa7c7e58ec8",
+            "Value": {
+                "id": "35719db7-8746-4d2c-8e29-3514bdbdc585",
+                "resourcePath": "rooms\\rm_MainMenu\\rm_MainMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
