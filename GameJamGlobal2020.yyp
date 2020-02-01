@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1c92b621-3531-4c93-bc67-aa73ad8f9595",
+            "Value": {
+                "id": "9c41972a-c440-4e3f-b999-72ce1c0b0fc8",
+                "resourcePath": "rooms\\rm_LonelyRoom\\rm_LonelyRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1dab156e-df7f-4426-84c5-275d34d61d45",
             "Value": {
                 "id": "2019cd4b-51b8-4559-97b4-9d467de7c854",
