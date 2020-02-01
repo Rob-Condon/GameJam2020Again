@@ -26,17 +26,16 @@ if (global.Tab == true) {
 	}
 } else {
 	if(iterate) {
-	
-	iterate = false
-	for (var i = 0; i<topicsLength; i+=1){
-			clue_inventory[i].visible = false;
-			show_debug_message(string(clue_inventory[i]))
+		iterate = false
+		for (var i = 0; i<cluesLength; i+=1){
+				clue_inventory[i].visible = false;
+				show_debug_message(string(clue_inventory[i]))
+			}
+		
+		for (var i = 0; i<topicsLength; i+=1){
+				topic_inventory[i].visible = false;
+				show_debug_message(string(topic_inventory[i]))
+			}
 		}
-	}
-	for (var i = 0; i<topicsLength; i+=1){
-			topic_inventory[i].visible = false;
-			show_debug_message(string(topic_inventory[i]))
-		}
-	}
 	
 }
