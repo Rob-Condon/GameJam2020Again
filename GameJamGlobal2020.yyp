@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "01554f92-af81-4f12-b4c5-b4d21f47b9af",
-            "Value": {
-                "id": "d4688b01-ff85-47ff-bcbf-c7057a39503b",
-                "resourcePath": "tilesets\\tm_Kitchen\\tm_Kitchen.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "049ebbff-1991-4c23-8fa0-5d1726918f34",
             "Value": {
                 "id": "e4bd4812-636b-4dd6-923a-ce4ce2991042",
@@ -59,14 +51,6 @@
             "Value": {
                 "id": "ac8af930-1cc8-498c-b053-2bb7ed82ff97",
                 "resourcePath": "sprites\\spr_CharacterC\\spr_CharacterC.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "057ab071-c3de-4a93-85b8-9e318ff31303",
-            "Value": {
-                "id": "a53ae5ff-d7c9-427d-8655-aad61ae77375",
-                "resourcePath": "sprites\\spr_DiningRoomBig\\spr_DiningRoomBig.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -116,6 +100,15 @@
                 "id": "d749fb38-7c3f-4949-ab61-c91461044839",
                 "resourcePath": "fonts\\fnt_DialogueUnlock\\fnt_DialogueUnlock.yy",
                 "resourceType": "GMFont"
+	    }
+	},
+	{	
+            "Key": "110739b2-078e-486f-95fd-a77581d22faf",
+            "Value": {
+                "id": "f78411e8-95f0-4663-8e08-45d8d9ec919c",
+                "resourcePath": "tilesets\\tm_Kitchen\\tm_Kitchen.yy",
+                "resourceType": "GMTileSet"
+
             }
         },
         {
@@ -311,14 +304,6 @@
             }
         },
         {
-            "Key": "5c61dffd-ffe4-4946-9fda-d016577056ef",
-            "Value": {
-                "id": "082195cd-a0c9-4433-809b-49ba91436244",
-                "resourcePath": "sprites\\spr_KitchenBig\\spr_KitchenBig.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5e4d6365-5df4-4617-a375-4628b7f8987b",
             "Value": {
                 "id": "5b6d7016-970a-4eff-ac5b-5007998e0629",
@@ -404,6 +389,22 @@
                 "id": "f6fe6e07-8623-4dce-bc1b-09167b7bb6e1",
                 "resourcePath": "objects\\obj_CharacterB\\obj_CharacterB.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8749e86d-6586-4706-b509-eaf10bf394b7",
+            "Value": {
+                "id": "8637d29d-c700-4ff8-8055-9410374c150c",
+                "resourcePath": "sprites\\spr_KitchenBig\\spr_KitchenBig.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8af660e0-00f6-4591-a8e8-0f5fff4a94cf",
+            "Value": {
+                "id": "387a5077-0abb-4fe8-867f-0e7d01e1bf8b",
+                "resourcePath": "sprites\\sprite28\\sprite28.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -604,6 +605,14 @@
                 "id": "9463f432-a869-43f9-a664-415c6d9abd65",
                 "resourcePath": "objects\\obj_NewDialogue\\obj_NewDialogue.yy",
                 "resourceType": "GMObject"
+	    }
+	},
+	{
+            "Key": "e17c2d06-73e6-4338-a405-a31a3179cbc4",
+            "Value": {
+                "id": "adbc27ad-ada8-4f3c-b279-a3bbd77b1e10",
+                "resourcePath": "sprites\\spr_DiningRoomBig\\spr_DiningRoomBig.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
