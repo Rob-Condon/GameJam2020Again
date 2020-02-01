@@ -16,7 +16,7 @@ StringHeight = string_height(Text)
 //This makes it so the string gets printed in out slowly rather then all at once.
 textPart = string_copy(Text, 1, IncrementStringAmount)
 //Drawing the string. I.E "This is 1 line"
-draw_text_ext_transformed(self.x+20, self.y+(BoxHeight*2.3), textPart, StringHeight, BoxWidth-65, 0.75,0.75,0);
+draw_text_ext_transformed(self.x+20, self.y+(BoxHeight*2.3), textPart, StringHeight, BoxWidth-65, 0.6,0.6,0);
 
 //Drawing the icon
 if(global.Tab) { 

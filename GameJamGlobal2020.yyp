@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "02d5bc93-891a-4a03-9ba7-cbfcd8117f40",
+            "Value": {
+                "id": "dc5551dd-449b-4f3b-a1ad-2c451e258e66",
+                "resourcePath": "sprites\\spr_TopicInventory\\spr_TopicInventory.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "049ebbff-1991-4c23-8fa0-5d1726918f34",
             "Value": {
                 "id": "e4bd4812-636b-4dd6-923a-ce4ce2991042",
@@ -100,15 +108,14 @@
                 "id": "d749fb38-7c3f-4949-ab61-c91461044839",
                 "resourcePath": "fonts\\fnt_DialogueUnlock\\fnt_DialogueUnlock.yy",
                 "resourceType": "GMFont"
-	    }
-	},
-	{	
+            }
+        },
+        {
             "Key": "110739b2-078e-486f-95fd-a77581d22faf",
             "Value": {
                 "id": "f78411e8-95f0-4663-8e08-45d8d9ec919c",
                 "resourcePath": "tilesets\\tm_Kitchen\\tm_Kitchen.yy",
                 "resourceType": "GMTileSet"
-
             }
         },
         {
@@ -656,19 +663,27 @@
             }
         },
         {
-            "Key": "e3cdedbb-4c12-4932-9945-3a7435cb8b44",
+            "Key": "e1032459-a1b7-4203-8efa-526e468a61d2",
             "Value": {
-                "id": "9463f432-a869-43f9-a664-415c6d9abd65",
-                "resourcePath": "objects\\obj_NewDialogue\\obj_NewDialogue.yy",
+                "id": "babb01d2-b065-428d-897d-d024823b2a9a",
+                "resourcePath": "objects\\obj_TopicInventory\\obj_TopicInventory.yy",
                 "resourceType": "GMObject"
-	    }
-	},
-	{
+            }
+        },
+        {
             "Key": "e17c2d06-73e6-4338-a405-a31a3179cbc4",
             "Value": {
                 "id": "adbc27ad-ada8-4f3c-b279-a3bbd77b1e10",
                 "resourcePath": "sprites\\spr_DiningRoomBig\\spr_DiningRoomBig.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e3cdedbb-4c12-4932-9945-3a7435cb8b44",
+            "Value": {
+                "id": "9463f432-a869-43f9-a664-415c6d9abd65",
+                "resourcePath": "objects\\obj_NewDialogue\\obj_NewDialogue.yy",
+                "resourceType": "GMObject"
             }
         },
         {

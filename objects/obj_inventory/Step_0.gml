@@ -10,6 +10,7 @@ vy = camera_get_view_y(view_camera[0]);
 if (global.Tab == true) {
 	if(iterate == false){
 		iterate = true
+		instance_create_depth(vx+650, vy + 100, -100, obj_TopicInventory)
 		for (var i = 0; i<cluesLength; i+=1){
 
 			clue_inventory[i].visible = true;
@@ -22,7 +23,7 @@ if (global.Tab == true) {
 		for (var i = 0; i<topicsLength; i+=1){
 			topic_inventory[i].visible = true;
 			topic_inventory[i].x = vx+805;
-			topic_inventory[i].y = vy +220  + (i * 90);
+			topic_inventory[i].y = vy +170  + (i * 90);
 			show_debug_message(string(topic_inventory[i].TopicText))
 		}
 	}
@@ -42,6 +43,7 @@ if (global.Tab == true) {
 				show_debug_message(string(topic_inventory[i]))
 			}
 		}
+		instance_destroy(obj_TopicInventory)
 	
 	
 }

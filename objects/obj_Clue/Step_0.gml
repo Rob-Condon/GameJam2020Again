@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if (mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, self) && Inventory && Grabbed){
-	with(instance_create_depth(x,y, -200, obj_ClueInv)) {
+	with(instance_create_depth(x,y, -150, obj_ClueInv)) {
 		sprite_index = other.sprite_index;
 		visible = false;
 		Inventory = false;
@@ -10,7 +10,7 @@ if (mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, se
 	with(obj_inventory) {
 		var Isin = false;
 		var i = 0;
-		for (i = 0; i < array_length_1d(clue_inventory) ; i += 1) {
+		for (i = 0; i < array_length_1d(clue_inventory); i += 1) {
 			if(clue_inventory[i].sprite_index == other.ClueItem.sprite_index) {
 				Isin = true;
 			}

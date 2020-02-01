@@ -2,11 +2,11 @@
 //Done my Job
 image_speed = 0;
 MyStory = ["They would know if they cared...",
-"Thank you but it's not just that, theres normal things people who are raised right don't forget. It's like they don't care",
-"I can't even remeber the last time i felt like he cared",
-"I'm sorry about forgetting you make dinners when ever you can. But please don't forget the small things really do help"]
+"Thank you but it's not just that, there are normal things people who are raised right don't forget. It's like they don't care",
+"I can't even remember the last time I felt like they cared",
+"I'm sorry about forgetting you make dinners whenever you can. But please don't forget, the small things really do help"]
 ShortMyStory = ["EOP", "Normal Things", "EOP", "Done my Job"]
-WrongAnsewr = "Just somthing more i have to deal with"
+WrongAnsewr = "Just something more I have to deal with"
 color = make_color_rgb(255,182,193);
 Name = "Rosie"
 SO = obj_CharacterC
