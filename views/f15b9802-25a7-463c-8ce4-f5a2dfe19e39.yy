@@ -10,7 +10,11 @@
         "fd5c8309-741b-4b5d-9232-e790ed4f92ea",
         "b3f31064-ac6c-45ea-bedc-d8af2ae68d5f",
         "61a43e26-f211-4731-9db5-d5084637a576",
-        "1fd78f3d-52b9-4d8c-8223-a1927543e2c8"
+        "1fd78f3d-52b9-4d8c-8223-a1927543e2c8",
+        "35d8d3cc-7bb7-4a42-a855-6a241e8dc375",
+        "12bd8d32-b905-4099-b468-853518c30543",
+        "02f3fa1d-4e1e-410e-94e8-6cf4bea37ce2",
+        "c7218b31-34dd-40e0-9cc3-ab3306c182cd"
     ],
     "filterType": "GMSprite",
     "folderName": "Clues",
