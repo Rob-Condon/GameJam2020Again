@@ -4,7 +4,7 @@ vx = camera_get_view_x(view_camera[0]);
 vy = camera_get_view_y(view_camera[0]);
 x = vx;
 
-
+Character.depth = -199
 show_debug_message(obj_inventory.topic_inventory)
 
 if keyboard_check_pressed(vk_space){
@@ -68,6 +68,7 @@ if keyboard_check_pressed(vk_space){
 		
 		obj_inventory.iterate = false;
 		obj_GameControler.Talking = false
+		Character.depth = 50
 		instance_destroy();	
 		
 	}

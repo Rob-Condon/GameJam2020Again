@@ -15,6 +15,7 @@ if(obj_GameControler.Talking == false && !global.Tab) {
 		InstanceName = other.Name;
 		TextColor = other.color;
 		TopicItem = other.TopicObject;
+		Character = other;
 	}
 	
 	obj_GameControler.Talking = true

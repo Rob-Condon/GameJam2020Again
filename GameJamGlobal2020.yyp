@@ -95,11 +95,20 @@
             }
         },
         {
+            "Key": "0fcbbfb3-7a8e-4904-947e-0cf4ea092037",
+            "Value": {
+                "id": "d749fb38-7c3f-4949-ab61-c91461044839",
+                "resourcePath": "fonts\\fnt_DialogueUnlock\\fnt_DialogueUnlock.yy",
+                "resourceType": "GMFont"
+	    }
+	},
+	{	
             "Key": "110739b2-078e-486f-95fd-a77581d22faf",
             "Value": {
                 "id": "f78411e8-95f0-4663-8e08-45d8d9ec919c",
                 "resourcePath": "tilesets\\tm_Kitchen\\tm_Kitchen.yy",
                 "resourceType": "GMTileSet"
+
             }
         },
         {
@@ -348,6 +357,14 @@
                 "id": "a8e1f25d-e32a-4876-83b6-871147a50e3c",
                 "resourcePath": "sprites\\spr_NotePad\\spr_NotePad.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "681897d2-b360-4b0a-939a-39dfcc41e939",
+            "Value": {
+                "id": "b4a4bd1f-5c92-4123-8323-0beb1f7620ae",
+                "resourcePath": "scripts\\scr_NewDialogue\\scr_NewDialogue.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -639,6 +656,14 @@
             }
         },
         {
+            "Key": "e3cdedbb-4c12-4932-9945-3a7435cb8b44",
+            "Value": {
+                "id": "9463f432-a869-43f9-a664-415c6d9abd65",
+                "resourcePath": "objects\\obj_NewDialogue\\obj_NewDialogue.yy",
+                "resourceType": "GMObject"
+	    }
+	},
+	{
             "Key": "e17c2d06-73e6-4338-a405-a31a3179cbc4",
             "Value": {
                 "id": "adbc27ad-ada8-4f3c-b279-a3bbd77b1e10",
@@ -753,7 +778,8 @@
     ],
     "script_order": [
         "2213de35-4a6f-4390-9235-48d09d458f73",
-        "6a02d6bd-932d-41a3-83b0-69167aabe086"
+        "6a02d6bd-932d-41a3-83b0-69167aabe086",
+        "681897d2-b360-4b0a-939a-39dfcc41e939"
     ],
     "tutorial": ""
 }

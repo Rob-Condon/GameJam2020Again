@@ -15,6 +15,7 @@ if(obj_GameControler.Talking == false) {
 		InstanceName = other.Topic.Character.Name;
 		TextColor = other.Topic.Character.color;
 		TopicItem = other.TopicObject;
+		Character = other.Topic.Character;
 	}
 	obj_GameControler.Talking = true
 }
