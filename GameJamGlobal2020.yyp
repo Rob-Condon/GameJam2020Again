@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "439efae1-a3d6-4360-a0c0-94b539f8e401",
+            "Value": {
+                "id": "993072b5-9f77-4c6a-be7b-44b8a20622aa",
+                "resourcePath": "objects\\obj_DirtyDishes\\obj_DirtyDishes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "43dc9c97-1dd0-4853-8c51-0cadc621eb4e",
             "Value": {
                 "id": "4600c059-47cf-4bff-b2d7-02c2c54c4521",
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "851d4d17-4ec7-42e0-92b6-9e83ae5576f8",
+            "Value": {
+                "id": "48222cf3-d021-46ae-88e3-ff2dc93bf5bc",
+                "resourcePath": "objects\\obj_ToolBelt\\obj_ToolBelt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8749e86d-6586-4706-b509-eaf10bf394b7",
             "Value": {
                 "id": "8637d29d-c700-4ff8-8055-9410374c150c",
@@ -487,6 +503,14 @@
             }
         },
         {
+            "Key": "9efbeb02-50e9-4b47-ae89-890d551cef25",
+            "Value": {
+                "id": "6757349a-9868-4825-8e80-fe42f9e8b331",
+                "resourcePath": "objects\\obj_BrokenSink\\obj_BrokenSink.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a17d6402-2246-4a9a-913f-9e2086da4a86",
             "Value": {
                 "id": "2985601e-10f3-4911-b72c-266e8e37280d",
@@ -532,6 +556,14 @@
                 "id": "41b26a50-6770-4c37-995d-97968b8c293c",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a95dba5c-fdc7-493e-8c0b-b3adbfb1f947",
+            "Value": {
+                "id": "2a1441d4-8daf-4bf7-9d14-7b0578b48790",
+                "resourcePath": "objects\\obj_Pieces\\obj_Pieces.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -615,6 +647,14 @@
             }
         },
         {
+            "Key": "d50f1dae-217c-4048-8e9f-00d38e62ef31",
+            "Value": {
+                "id": "60e24148-5311-420e-bb88-e30adf1d8b86",
+                "resourcePath": "rooms\\rm_DepressoEspresso\\rm_DepressoEspresso.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d695d044-96f9-4300-b4f3-8713d67f9ef2",
             "Value": {
                 "id": "6cb2739d-e259-4027-9634-9e21bc46201f",
@@ -675,6 +715,14 @@
             "Value": {
                 "id": "9463f432-a869-43f9-a664-415c6d9abd65",
                 "resourcePath": "objects\\obj_NewDialogue\\obj_NewDialogue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e4baca69-b985-4e62-af6f-72d8f3edcc6c",
+            "Value": {
+                "id": "77cbba38-f6f3-44ea-92f1-27eb22a6b867",
+                "resourcePath": "objects\\obj_InkyBoot\\obj_InkyBoot.yy",
                 "resourceType": "GMObject"
             }
         },
