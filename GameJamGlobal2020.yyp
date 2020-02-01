@@ -87,28 +87,19 @@
             }
         },
         {
-            "Key": "0fb3ae84-e2aa-46bd-9708-937139f9625c",
-            "Value": {
-                "id": "88416a58-2049-48d4-bf7a-d99cf57ffa34",
-                "resourcePath": "sprites\\spr_UnwashedDishes\\spr_UnwashedDishes.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0fcbbfb3-7a8e-4904-947e-0cf4ea092037",
             "Value": {
                 "id": "d749fb38-7c3f-4949-ab61-c91461044839",
                 "resourcePath": "fonts\\fnt_DialogueUnlock\\fnt_DialogueUnlock.yy",
                 "resourceType": "GMFont"
-	    }
-	},
-	{	
+            }
+        },
+        {
             "Key": "110739b2-078e-486f-95fd-a77581d22faf",
             "Value": {
                 "id": "f78411e8-95f0-4663-8e08-45d8d9ec919c",
                 "resourcePath": "tilesets\\tm_Kitchen\\tm_Kitchen.yy",
                 "resourceType": "GMTileSet"
-
             }
         },
         {
@@ -149,6 +140,14 @@
                 "id": "5fad7000-020c-4fbb-8eee-7b3581668cd3",
                 "resourcePath": "objects\\obj_confront\\obj_confront.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1fd78f3d-52b9-4d8c-8223-a1927543e2c8",
+            "Value": {
+                "id": "2c909592-b617-460f-9700-f16271c0736c",
+                "resourcePath": "sprites\\spr_UnwashedDishes\\spr_UnwashedDishes.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -256,6 +255,14 @@
             }
         },
         {
+            "Key": "3c677551-4ae0-4eb6-96f1-ea5c51eb1147",
+            "Value": {
+                "id": "608c7927-225e-4774-9f1c-325e4c0c0d6c",
+                "resourcePath": "sprites\\spr_CharacterE\\spr_CharacterE.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3fadd281-239d-4895-87cf-97eccb979c4a",
             "Value": {
                 "id": "d20ea44a-d338-4397-b86a-64a927615b41",
@@ -304,14 +311,6 @@
             }
         },
         {
-            "Key": "4cb86340-d1a3-462f-a92c-eea493d953da",
-            "Value": {
-                "id": "1f2d0e67-4094-4684-8415-3b608ba56488",
-                "resourcePath": "sprites\\spr_InkyShoes\\spr_InkyShoes.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "51aba657-37a2-4427-95c3-59eb5bebf83c",
             "Value": {
                 "id": "5cb10993-1275-4a1e-b757-2c07102710e8",
@@ -328,19 +327,19 @@
             }
         },
         {
-            "Key": "5e4d6365-5df4-4617-a375-4628b7f8987b",
-            "Value": {
-                "id": "5b6d7016-970a-4eff-ac5b-5007998e0629",
-                "resourcePath": "sprites\\spr_ToolBelt\\spr_ToolBelt.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "60324c09-b5f2-4a09-a4f9-170f71f7ffd4",
             "Value": {
                 "id": "77956d2d-21e7-41ec-871c-9b52d5a94971",
                 "resourcePath": "views\\60324c09-b5f2-4a09-a4f9-170f71f7ffd4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "61a43e26-f211-4731-9db5-d5084637a576",
+            "Value": {
+                "id": "b1cfe4fd-5877-4b47-b0da-4326789b140b",
+                "resourcePath": "sprites\\spr_InkyShoes\\spr_InkyShoes.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -544,6 +543,14 @@
             }
         },
         {
+            "Key": "b3f31064-ac6c-45ea-bedc-d8af2ae68d5f",
+            "Value": {
+                "id": "b3950ee7-753d-4202-911b-62a18de72cf0",
+                "resourcePath": "sprites\\spr_ToolBelt\\spr_ToolBelt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b412a08e-852b-40fb-8432-565973289fe8",
             "Value": {
                 "id": "e688b113-7989-45ad-a730-668f02064996",
@@ -656,19 +663,19 @@
             }
         },
         {
-            "Key": "e3cdedbb-4c12-4932-9945-3a7435cb8b44",
-            "Value": {
-                "id": "9463f432-a869-43f9-a664-415c6d9abd65",
-                "resourcePath": "objects\\obj_NewDialogue\\obj_NewDialogue.yy",
-                "resourceType": "GMObject"
-	    }
-	},
-	{
             "Key": "e17c2d06-73e6-4338-a405-a31a3179cbc4",
             "Value": {
                 "id": "adbc27ad-ada8-4f3c-b279-a3bbd77b1e10",
                 "resourcePath": "sprites\\spr_DiningRoomBig\\spr_DiningRoomBig.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e3cdedbb-4c12-4932-9945-3a7435cb8b44",
+            "Value": {
+                "id": "9463f432-a869-43f9-a664-415c6d9abd65",
+                "resourcePath": "objects\\obj_NewDialogue\\obj_NewDialogue.yy",
+                "resourceType": "GMObject"
             }
         },
         {
