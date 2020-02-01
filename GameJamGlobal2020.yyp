@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0fcbbfb3-7a8e-4904-947e-0cf4ea092037",
+            "Value": {
+                "id": "d749fb38-7c3f-4949-ab61-c91461044839",
+                "resourcePath": "fonts\\fnt_DialogueUnlock\\fnt_DialogueUnlock.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "14ed7a1e-b15a-4298-90d1-30feb9dd555c",
             "Value": {
                 "id": "22114a39-c29c-4c7d-a969-48302fbc6f96",
@@ -343,6 +351,14 @@
             }
         },
         {
+            "Key": "681897d2-b360-4b0a-939a-39dfcc41e939",
+            "Value": {
+                "id": "b4a4bd1f-5c92-4123-8323-0beb1f7620ae",
+                "resourcePath": "scripts\\scr_NewDialogue\\scr_NewDialogue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6a02d6bd-932d-41a3-83b0-69167aabe086",
             "Value": {
                 "id": "c756be4a-2141-43b9-a155-32ebb9250dd4",
@@ -517,8 +533,8 @@
                 "resourcePath": "rooms\\rm_UnTidy\\rm_UnTidy.yy",
                 "resourceType": "GMRoom"
             }
-       },
-       {
+        },
+        {
             "Key": "cbd908bf-37e3-4a1e-a477-c20a8a3ceff3",
             "Value": {
                 "id": "7855ebe3-78fe-4f83-9542-df963af5155a",
@@ -579,6 +595,14 @@
             "Value": {
                 "id": "18a784ce-5182-4824-9208-7627bb97cada",
                 "resourcePath": "objects\\obj_GameControler\\obj_GameControler.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e3cdedbb-4c12-4932-9945-3a7435cb8b44",
+            "Value": {
+                "id": "9463f432-a869-43f9-a664-415c6d9abd65",
+                "resourcePath": "objects\\obj_NewDialogue\\obj_NewDialogue.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -673,7 +697,8 @@
     ],
     "script_order": [
         "2213de35-4a6f-4390-9235-48d09d458f73",
-        "6a02d6bd-932d-41a3-83b0-69167aabe086"
+        "6a02d6bd-932d-41a3-83b0-69167aabe086",
+        "681897d2-b360-4b0a-939a-39dfcc41e939"
     ],
     "tutorial": ""
 }

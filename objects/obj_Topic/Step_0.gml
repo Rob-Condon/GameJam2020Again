@@ -11,6 +11,7 @@ if (mouse_check_button_released(mb_left) && !Solved && global.Tab){
 		Character.image_speed = 1;
 		if (Clue == inst.sprite_index){
 			scr_TriggerTextBox(self);
+			scr_NewDialogue()
 		} else {
 			scr_WrongAnswerTextBox(self)
 		}
