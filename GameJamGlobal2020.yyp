@@ -31,10 +31,18 @@
     },
     "resources": [
         {
+            "Key": "013bf3b2-cfb8-4231-8f15-72e167cfc8e2",
+            "Value": {
+                "id": "9899e2dc-8fb9-4335-b1c7-2c4a9f187992",
+                "resourcePath": "tilesets\\tm_LivingRoom\\tm_LivingRoom.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "01554f92-af81-4f12-b4c5-b4d21f47b9af",
             "Value": {
                 "id": "d4688b01-ff85-47ff-bcbf-c7057a39503b",
-                "resourcePath": "tilesets\\tm_Kichen\\tm_Kichen.yy",
+                "resourcePath": "tilesets\\tm_Kitchen\\tm_Kitchen.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -50,7 +58,7 @@
             "Key": "057ab071-c3de-4a93-85b8-9e318ff31303",
             "Value": {
                 "id": "a53ae5ff-d7c9-427d-8655-aad61ae77375",
-                "resourcePath": "sprites\\Dining_RoomBig\\Dining_RoomBig.yy",
+                "resourcePath": "sprites\\spr_DiningRoomBig\\spr_DiningRoomBig.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -98,7 +106,7 @@
             "Key": "17b1d54a-bf96-41d0-bbb6-47312aca284e",
             "Value": {
                 "id": "7cd0ade7-8832-4eee-8f2d-4aa7df96ef03",
-                "resourcePath": "sprites\\Kitchen\\Kitchen.yy",
+                "resourcePath": "sprites\\spr_Kitchen\\spr_Kitchen.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -226,7 +234,7 @@
             "Key": "497d0e17-b743-400d-8955-75acb0eb23b9",
             "Value": {
                 "id": "b03116fb-25fd-47ca-949e-9e03cfb585cb",
-                "resourcePath": "rooms\\TutriolRoom\\TutriolRoom.yy",
+                "resourcePath": "rooms\\TutorialRoom\\TutorialRoom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -258,7 +266,7 @@
             "Key": "5c61dffd-ffe4-4946-9fda-d016577056ef",
             "Value": {
                 "id": "082195cd-a0c9-4433-809b-49ba91436244",
-                "resourcePath": "sprites\\KitchenBig\\KitchenBig.yy",
+                "resourcePath": "sprites\\spr_KitchenBig\\spr_KitchenBig.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -399,6 +407,14 @@
             }
         },
         {
+            "Key": "b06ca8af-9291-4637-9045-018d7004e975",
+            "Value": {
+                "id": "9908ca82-d140-454f-bc0e-694b16ce4700",
+                "resourcePath": "sprites\\spr_LivingRoom\\spr_LivingRoom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b412a08e-852b-40fb-8432-565973289fe8",
             "Value": {
                 "id": "e688b113-7989-45ad-a730-668f02064996",
@@ -423,6 +439,14 @@
             }
         },
         {
+            "Key": "cbd908bf-37e3-4a1e-a477-c20a8a3ceff3",
+            "Value": {
+                "id": "7855ebe3-78fe-4f83-9542-df963af5155a",
+                "resourcePath": "tilesets\\tm_DiningRoom\\tm_DiningRoom.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "65465d32-4165-4e68-af9b-f43263a4a079",
@@ -443,6 +467,14 @@
             "Value": {
                 "id": "28bd9e32-bc2b-4d0d-8212-63b7337436cb",
                 "resourcePath": "sprites\\spr_Inventory11\\spr_Inventory11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "da5b8692-908a-4b70-b3b7-e3ffc30f8365",
+            "Value": {
+                "id": "5078e548-ec43-4cb5-82c6-0066d1379bf6",
+                "resourcePath": "sprites\\spr_LivingRoomBig\\spr_LivingRoomBig.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -474,7 +506,7 @@
             "Key": "edf130b5-d38b-4a98-9820-a926649dec6f",
             "Value": {
                 "id": "624da2cd-d275-45d2-9468-b5c59eee4839",
-                "resourcePath": "sprites\\Dining_Room\\Dining_Room.yy",
+                "resourcePath": "sprites\\spr_DiningRoom\\spr_DiningRoom.yy",
                 "resourceType": "GMSprite"
             }
         },
