@@ -1,11 +1,11 @@
 //Arrays start with 0 being no clue and 1-999 being with one clue condition
 //Done my Job
 image_speed = 0;
-MyStory = ["I don't know why but she's always mad at me once I get home after work",
-"I think thats part of it but not the root. But if it wasn't just that then I'm even more confused!",
-"I'm gonna try to keep an eye on those things, thanks for pointing them out to me. But I feel like the things I do... are not appreciated",
-"I'm glad you noticed and I hope they can too, in the same way I can remember to do the simple things"]
-ShortMyStory = ["After work?", "EOP", "Good Thing", "EOP"]
+MyStory = ["I don't know why but they're always mad at me once I get home after work!",
+"Oh... I think that may be part of it, but is that enough to always be angry?",
+"I see, thanks for pointing them out to me. But I feel like the things I do... are not appreciated",
+"I'm glad you noticed and I hope they will too, but they're right, I need to do a bit more around here."]
+ShortMyStory = ["After work?", "EOP", "Unappreciated", "EOP"]
 WrongAnsewr = "Thats not it mate"
 color = c_yellow;
 Name = "Dill"

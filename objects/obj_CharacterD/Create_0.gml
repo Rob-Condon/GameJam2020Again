@@ -4,7 +4,7 @@ image_speed = 0;
 MyStory = ["They would know if they cared...",
 "Thank you but it's not just that, there are normal things people who are raised right don't forget. It's like they don't care",
 "I can't even remember the last time I felt like they cared",
-"I'm sorry about forgetting you make dinners whenever you can. But please don't forget, the small things really do help"]
+"I'm sorry for overlooking that you make dinners whenever you can. I guess there are things I need to work on too."]
 ShortMyStory = ["EOP", "Normal Things", "EOP", "Done my Job"]
 WrongAnsewr = "Just something more I have to deal with"
 color = make_color_rgb(255,182,193);
