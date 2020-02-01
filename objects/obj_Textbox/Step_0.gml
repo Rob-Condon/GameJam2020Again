@@ -19,6 +19,9 @@ if keyboard_check_pressed(vk_space){
 				show_message("Do the next level bitch boi");
 				room_goto(RobRobert)
 			}
+			if(room == rm_Lonely) {
+				room_goto(RobRobert)
+			}
 				
 		}
 		with(obj_inventory) {

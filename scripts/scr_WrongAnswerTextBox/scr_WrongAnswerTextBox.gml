@@ -10,7 +10,7 @@ if(obj_GameControler.Talking == false) {
 		other.TopicObject = self;
 	}
 
-	with(instance_create_depth(0, 0, -200, obj_Textbox)) {
+	with(instance_create_depth(0, 0, -250, obj_Textbox)) {
 		Text = other.Topic.Character.WrongAnsewr;
 		InstanceName = other.Topic.Character.Name;
 		TextColor = other.Topic.Character.color;
