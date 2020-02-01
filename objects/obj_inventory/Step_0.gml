@@ -13,7 +13,6 @@ if (global.Tab == true) {
 		for (var i = 0; i<cluesLength; i+=1){
 
 			clue_inventory[i].visible = true;
-			
 			clue_inventory[i].x = vx+100 + (i * 65);
 			clue_inventory[i].y = vy +500;
 			show_debug_message(string(clue_inventory[i].sprite_index))
@@ -22,8 +21,8 @@ if (global.Tab == true) {
 		i = 0;
 		for (var i = 0; i<topicsLength; i+=1){
 			topic_inventory[i].visible = true;
-			topic_inventory[i].x = vx+700;
-			topic_inventory[i].y = vy +20  + (i * 105);
+			topic_inventory[i].x = vx+805;
+			topic_inventory[i].y = vy +220  + (i * 90);
 			show_debug_message(string(topic_inventory[i].TopicText))
 		}
 	}

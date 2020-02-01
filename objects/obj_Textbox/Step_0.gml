@@ -4,7 +4,7 @@ vx = camera_get_view_x(view_camera[0]);
 vy = camera_get_view_y(view_camera[0]);
 x = vx;
 
-
+Character.depth = -199
 show_debug_message(obj_inventory.topic_inventory)
 
 if keyboard_check_pressed(vk_space){
@@ -12,7 +12,14 @@ if keyboard_check_pressed(vk_space){
 		IncrementStringAmount = string_length(Text);
 	}else{
 		if(TopicItem.TopicText == "Done my Job") {
-			room_goto(RobRobert);	
+			if(room == TutorialRoom) {
+				room_goto(rm_UnTidy);
+			}
+			if(room == rm_UnTidy) {
+				show_message("Do the next level bitch boi");
+				room_goto(RobRobert)
+			}
+				
 		}
 		with(obj_inventory) {
 			if(other.TopicItem.TopicText == "wrong answer") {
@@ -61,6 +68,7 @@ if keyboard_check_pressed(vk_space){
 		
 		obj_inventory.iterate = false;
 		obj_GameControler.Talking = false
+		Character.depth = 50
 		instance_destroy();	
 		
 	}

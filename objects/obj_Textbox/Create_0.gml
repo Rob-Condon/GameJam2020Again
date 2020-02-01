@@ -11,7 +11,7 @@ spriteStartX = self.x+30;
 spriteStartY = self.y+33
 CurrentX = spriteStartX
 CurrentY = spriteStartY
-
+Character = noone
 LetterSize = string_width("i")*0.75;
 TotalLetters = 0;
 i = 0;
