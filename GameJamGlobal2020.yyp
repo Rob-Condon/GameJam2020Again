@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "92993c9e-5d21-496c-986e-12d52c11b8bb",
+            "Value": {
+                "id": "240553d2-098a-4d7f-bc29-154bc04d3c26",
+                "resourcePath": "sprites\\spr_Dave\\spr_Dave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "956a0b07-82cf-48a7-a7db-53a368fae390",
             "Value": {
                 "id": "0ebda087-ac7e-4b7d-917b-cf5c38a67f56",
@@ -676,6 +684,14 @@
                 "id": "2a1441d4-8daf-4bf7-9d14-7b0578b48790",
                 "resourcePath": "objects\\obj_Pieces\\obj_Pieces.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "af9ca372-58eb-43d5-be75-84c3842ccfb6",
+            "Value": {
+                "id": "854299c7-7d56-4f78-a2ca-4fb6f1c07790",
+                "resourcePath": "sprites\\spr_TheMovieShirt\\spr_TheMovieShirt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -799,6 +815,14 @@
             }
         },
         {
+            "Key": "da20b08c-a628-47d1-a760-f53f136a3bea",
+            "Value": {
+                "id": "79d204cc-12b7-4986-a3fc-3b77c4a80dc4",
+                "resourcePath": "sprites\\sprite48\\sprite48.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "da33d703-e17f-4aa9-9576-abdc7c9aa3c9",
             "Value": {
                 "id": "28bd9e32-bc2b-4d0d-8212-63b7337436cb",
@@ -903,6 +927,14 @@
             }
         },
         {
+            "Key": "ec20ec83-ddee-421e-8d7a-0f8598d5308d",
+            "Value": {
+                "id": "e093e60d-307b-4fbe-8154-3448c3f3426f",
+                "resourcePath": "sprites\\spr_MovieDvd\\spr_MovieDvd.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "edf130b5-d38b-4a98-9820-a926649dec6f",
             "Value": {
                 "id": "624da2cd-d275-45d2-9468-b5c59eee4839",
@@ -924,6 +956,14 @@
                 "id": "4b39f06c-d495-46a7-99b0-1bd480e07aea",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f78f316e-862b-4df3-9682-401ea1e9b012",
+            "Value": {
+                "id": "d17a3b30-a530-4b51-adba-8ab5f8dfd38e",
+                "resourcePath": "sprites\\spr_Billy\\spr_Billy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
