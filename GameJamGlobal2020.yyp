@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "35049583-ad7c-4912-bdf4-b1868825df98",
+            "Value": {
+                "id": "ebd677d6-3dbb-4951-a38b-7b5b1a613847",
+                "resourcePath": "sprites\\sprite46\\sprite46.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "35a916e6-e866-4fec-b770-b7a0c0b38414",
             "Value": {
                 "id": "dc65866e-60e8-4da0-9a81-e2b5bc0e0a87",
@@ -759,10 +767,18 @@
             }
         },
         {
+            "Key": "c370e625-a901-4428-b662-97c32c15fc73",
+            "Value": {
+                "id": "d9ce4637-8d88-4a67-baf7-6ed3dce431c2",
+                "resourcePath": "sprites\\spr_PulpFictionDVD\\spr_PulpFictionDVD.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c7218b31-34dd-40e0-9cc3-ab3306c182cd",
             "Value": {
                 "id": "bbfc6cc1-edb9-4933-be40-caadfd653526",
-                "resourcePath": "sprites\\spr_Frisbe\\spr_Frisbe.yy",
+                "resourcePath": "sprites\\spr_Frisbee\\spr_Frisbee.yy",
                 "resourceType": "GMSprite"
             }
         },
