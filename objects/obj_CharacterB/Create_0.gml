@@ -2,7 +2,7 @@
 //Done my Job
 image_speed = 0;
 MyStory = ["He stole my prized bunny costume Bulma figurine!",
-"So what, maybe he broke it when he was trying to steal it from me",
+"So it wasn't enough to take if from me, now they had to go and break it?!",
 "Oh! I see..... I'm sorry, I really shouldn't jump to conclusions like that"]
 ShortMyStory = ["Stolen?", "EOP", "Done my Job"]
 WrongAnsewr = "That doesn't disprove what they did!"

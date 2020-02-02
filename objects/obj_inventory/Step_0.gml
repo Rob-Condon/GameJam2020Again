@@ -11,6 +11,7 @@ if (global.Tab == true) {
 	if(iterate == false){
 		iterate = true
 		instance_create_depth(vx+650, vy + 100, -100, obj_TopicInventory)
+		instance_create_depth(vx+50, vy+450, -100, obj_ClueInventory)
 		for (var i = 0; i<cluesLength; i+=1){
 
 			clue_inventory[i].visible = true;
@@ -44,6 +45,7 @@ if (global.Tab == true) {
 			}
 		}
 		instance_destroy(obj_TopicInventory)
+		instance_destroy(obj_ClueInventory)
 	
 	
 }
