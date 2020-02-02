@@ -9,6 +9,7 @@ vy = camera_get_view_y(view_camera[0]);
 
 if (global.Tab == true) {
 	if(iterate == false){
+		audio_play_sound(snd_Inventory, 2, false);
 		iterate = true
 		instance_create_depth(vx+650, vy + 100, -100, obj_TopicInventory)
 		for (var i = 0; i<cluesLength; i+=1){
