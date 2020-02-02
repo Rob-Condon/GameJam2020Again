@@ -13,6 +13,6 @@ draw_text(x,y, TopicText);
 
 
 draw_set_alpha(0.4);
-draw_rectangle_color(x-100, y, x+100, y+64, c_white, c_white, c_white, c_white, false);
+draw_rectangle_color(x-125, y, x+125, y+64, c_white, c_white, c_white, c_white, false);
 draw_set_alpha(1);
 

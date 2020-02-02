@@ -3,8 +3,8 @@
 //EOP
 image_speed = 0;
 MyStory = ["Why does she always suspect me of doing stuff like that!",
-"I was just trying to fix the thing but then she jumped to stealing. I shoulden't have to explain myself.",
-"Ah there it is, thank you! i'm sure she'll understand now."]
+"I was just trying to fix the figurine but then she accuses me of stealing? Wow. Now, where did I put that...",
+"Ah there it is, thank you! I'm sure she'll understand now."]
 ShortMyStory = ["EOP", "Fixing it?", "EOP"]
 WrongAnsewr = "That doesn't help me!";
 color = c_blue;
