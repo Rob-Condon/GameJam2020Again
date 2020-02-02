@@ -1,5 +1,8 @@
 Left = keyboard_check(ord("A"));
-Right = keyboard_check(ord("D"));
+if(!EndingTime) {
+	Right = keyboard_check(ord("D"));
+}
+
 
 Movement = Right - Left;
 
@@ -20,6 +23,10 @@ if(Movement != 0) {
 	image_speed = 0;
 	image_index = 0;
 	
+}
+
+if(EndingTime) {
+	sprite_index = spr_PlayerIdeal2
 }
 
 

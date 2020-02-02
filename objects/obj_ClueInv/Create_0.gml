@@ -6,3 +6,4 @@ Inventory = true;
 Grabbed = true;
 ClueItem = noone;
 ItemDrag = false;
+image_speed = 0;

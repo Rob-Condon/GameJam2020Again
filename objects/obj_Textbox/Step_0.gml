@@ -16,11 +16,15 @@ if keyboard_check_pressed(vk_space){
 				room_goto(rm_UnTidy);
 			}
 			if(room == rm_UnTidy) {
-				show_message("Do the next level bitch boi");
-				room_goto(RobRobert)
+				room_goto(rm_Buddies)
 			}
+			if(room == rm_Buddies) {
+				room_goto(rm_Lonely)
+			}
+			
 			if(room == rm_Lonely) {
-				room_goto(RobRobert)
+				obj_Player.EndingTime = true;
+				obj_Door.visible = true
 			}
 				
 		}
