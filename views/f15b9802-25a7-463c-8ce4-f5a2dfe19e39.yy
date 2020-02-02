@@ -14,7 +14,9 @@
         "35d8d3cc-7bb7-4a42-a855-6a241e8dc375",
         "12bd8d32-b905-4099-b468-853518c30543",
         "02f3fa1d-4e1e-410e-94e8-6cf4bea37ce2",
-        "c7218b31-34dd-40e0-9cc3-ab3306c182cd"
+        "c7218b31-34dd-40e0-9cc3-ab3306c182cd",
+        "bda0cc7b-35f9-4ad8-831b-c88f2f061e14",
+        "71cef94f-1b72-45b0-80df-cdbf24f5f601"
     ],
     "filterType": "GMSprite",
     "folderName": "Clues",
