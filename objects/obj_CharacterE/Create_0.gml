@@ -2,14 +2,14 @@
 //Done my Job
 image_speed = 0;
 MyStory = ["I feel like i wear my interests more so then him",
-"Thank you but it's not just that, there are normal things people who are raised right don't forget. It's like they don't care",
-"I can't even remember the last time I felt like they cared",
-"I'm sorry for overlooking that you make dinners whenever you can. I guess there are things I need to work on too."]
-ShortMyStory = ["Worn Interest", "Normal Things", "EOP", "Done my Job"]
-WrongAnsewr = "Just something more I have to deal with"
-color = make_color_rgb(255,182,193);
-Name = "Rosie"
-SO = obj_CharacterC
+"Oh shot! i diden't know he was into that to!",
+"I'm glad it seems like we like the same shit. But i have a special interest that i hate to wear, i wounder if he still has it?",
+"BROoooooooooooooooooooooooooooooooooooooo"]
+ShortMyStory = ["Worn Interest", "EOP", "Special Interest", "EOP"]
+WrongAnsewr = "Brooo, I don't think thats it"
+color = make_color_rgb(160,82,45);
+Name = "Chad"
+SO = obj_CharacterF
 CurrentStory = 0;
-Clues = [spr_InkyShoes, spr_UnwashedDishes, spr_InkyChicken, spr_done];
+Clues = [spr_TheMovieDisc, spr_Shovel, spr_pants, spr_done];
 TopicObject = noone;
