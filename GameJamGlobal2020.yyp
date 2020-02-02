@@ -695,14 +695,6 @@
             }
         },
         {
-            "Key": "d50f1dae-217c-4048-8e9f-00d38e62ef31",
-            "Value": {
-                "id": "60e24148-5311-420e-bb88-e30adf1d8b86",
-                "resourcePath": "rooms\\rm_DepressoEspresso\\rm_DepressoEspresso.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "d695d044-96f9-4300-b4f3-8713d67f9ef2",
             "Value": {
                 "id": "6cb2739d-e259-4027-9634-9e21bc46201f",
